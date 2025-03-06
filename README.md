@@ -1,0 +1,1 @@
+# Gotek-Compatible-AT3F435-26Pin-SMD
