@@ -5,14 +5,14 @@
 	(uuid "a745de8c-9216-4cf7-9a91-94bf71b6bd6b")
 	(paper "A4")
 	(title_block
-		(title "Gotek(?) SMD Handrawn Schematic, Layout and Gerbers")
-		(date "2025-03-06")
-		(rev "1.0")
+		(title "Gotek(?) Handrawn Schematic, Layout and Gerbers")
+		(date "2025-04-11")
+		(rev "1.1")
 		(company "LiveBoxAndy")
 		(comment 1 "chip were removed to allow the routing underneath to be checked.")
 		(comment 2 "with the cable interface from an SFR1M44-DU26 (SFRC2D.B). The processor and the 74 ")
 		(comment 3 "Based on pictures and meter readings of an SRFKC30.AT4.35 for the processor bits mated")
-		(comment 4 "Changed to use all surface mount components.")
+		(comment 4 "Changed R21 to 12K to reduce brightness.")
 	)
 	(lib_symbols
 		(symbol "74xx:74AHC04"
